@@ -1,0 +1,192 @@
+*** ENVIRONMENT CRASH ***
+
+Date: Jan 23 2019 11:44 AM
+
+File Name: C:\Program Files (x86)\Ready to Program\Ready.exe
+Version: 1.7.1  [11]
+File Size: 2908199
+File Date: Oct 7 2003 4:57 PM
+Operating System: After Windows XP
+JVM: Ready Built-in JRE (1.4.2 or later)
+"assert" Statements: disabled
+
+
+Cause of Crash: Breakpoint Reached
+
+Previous Operations:
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    ннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннE
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    нннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннннн
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class FBWGCPT -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\High School\Gr 12 Computer Sci\CPT Game Finalized - FireBoy and WaterGirl" "C:\High School\Gr 12 Computer Sci\CPT Game Finalized - FireBoy and WaterGirl" 600 600JavaSup: -pipe 624 644 564 1314514
+    JavaSup: -pipe 624 644 564 1314514
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: JVM Option: "-Djava.library.path=C:\Program Files (x86)\Ready to Program\Support\Bin"
+    JavaSup: JVM Option: "-enableassertions"
+    JavaSup: JVM Option: "-Xdebug"
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: COMMAND_MOVE/SELECT_COLUMN_RIGHT
+    Move Column Right - Text: 2609b48 - Select: 0
+    Text - sz:836:25169 - slFr:0:0:0 - slTo:0:0:0 - nlA:0
+    Line Starts: 833:25150 834:25151 835:25152 836:25169
+  CMD: COMMAND_MOVE/SELECT_COLUMN_RIGHT
+    Move Column Right - Text: 2609b48 - Select: 0
+    Text - sz:836:25169 - slFr:0:1:1 - slTo:0:1:1 - nlA:0
+    Line Starts: 833:25150 834:25151 835:25152 836:25169
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_STOP
+  CMD: COMMAND_MOVE/SELECT_COLUMN_RIGHT
+    Move Column Right - Text: 2609b48 - Select: 0
+    Text - sz:836:25169 - slFr:0:2:2 - slTo:0:2:2 - nlA:0
+    Line Starts: 833:25150 834:25151 835:25152 836:25169
+  CMD: COMMAND_MOVE/SELECT_COLUMN_RIGHT
+    Move Column Right - Text: 2609b48 - Select: 0
+     џџ"
+    Line Starts: 833:25150 834:25151 835:25152 836:25169
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_RUN
+    Run (1) - Window: 60410ca - Ex: 1 - Args: 0 - Step: 0
+    Jikes compiling FBWGCPT
+    Command to Java Supervisor - "-java "C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll" -cp ".;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;" -class FBWGCPT -props F 25 80 10 "Courier New" 2 F 0 F 8 8 0 F T -applet "C:\High School\Gr 12 Computer Sci\CPT Game Finalized - FireBoy and WaterGirl" "C:\High School\Gr 12 Computer Sci\CPT Game Finalized - FireBoy and WaterGirl" 600 600 џџ"
+    JavaSup: JVM Option: "-Xrunjdwp:transport=dt_shmem,address=readyshmem,server=y,suspend=n"
+    JavaSup: -pipe 624 644 564 1314514
+    JavaSup: JVM Option: "-Djava.class.path=.;C:\Program Files (x86)\Ready to Program\Support\Ready Classes;C:\Program Files (x86)\Ready to Program\Support\Classes;C:\Program Files (x86)\Ready to Program\Support\Ready Classes\tools.jar;"
+    JavaSup: JVM Option: "-Djava.library.path=C:\Program Files (x86)\Ready to Program\Support\Bin"
+    JavaSup: JVM Option: "-enableassertions"
+    JavaSup: JVM Option: "-Xdebug"
+  CMD: WM_LBUTTONDOWN (D)
+    Set Selection (1) - Text: 2609b48 - L: 19 - C: 67
+    Text - sz:836:25169 - slFr:0:4:4 - slTo:0:4:4 - nlA:0
+    Line Starts: 833:25150 834:25151 835:25152 836:25169
+    Set Selection (2) - sz:836:25169 - slFr:894 - slTo:894 - nlA:0
+    Line Starts: 833:25150 834:25151 835:25152 836:25169
+    Extend Selection - Text: 2609b48 - L: 19 - C: 67 (x1)
+    Text - sz:836:25169 - slFr:19:67:894 - slTo:19:67:894 - nlA:0
+    Line Starts: 833:25150 834:25151 835:25152 836:25169
+  CMD: WM_LBUTTONUP (D)
+    Extend Selection - Text: 2609b48 - L: 19 - C: 67 (x1)
+    Text - sz:836:25169 - slFr:894 - slTo:894 - nlA:0
+    Line Starts: 833:25150 834:25151 835:25152 836:25169
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_SETFOCUS (W)
+  CMD: COMMAND_STOP
+  CMD: WM_CLOSE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_ACTIVATE (W)
+  CMD: WM_DESTROY (W)
+  CMD: WM_DESTROY (D)
+
+
+Registers
+  EAX=00000001  EBX=00303000  ECX=00870000  EDX=00870000  ESI=0019E6A0
+  EDI=0019FEF0  EBP=0019E650  ESP=0019E640  EIP=00525E7F  FLG=00000246
+  CS=0023  DS=002B  SS=002B  ES=002B  FS=0053  GS=002B
+
+List of Modules: 
+    C:\Program Files (x86)\Ready to Program\Ready.exe
+    C:\Windows\SYSTEM32\ntdll.dll
+    C:\Windows\System32\KERNEL32.DLL
+    C:\Windows\System32\KERNELBASE.dll
+    C:\Windows\System32\USER32.dll
+    C:\Windows\System32\win32u.dll
+    C:\Windows\System32\GDI32.dll
+    C:\Windows\System32\gdi32full.dll
+    C:\Windows\System32\msvcp_win.dll
+    C:\Windows\System32\ucrtbase.dll
+    C:\Windows\System32\comdlg32.dll
+    C:\Windows\System32\msvcrt.dll
+    C:\Windows\System32\combase.dll
+    C:\Windows\System32\RPCRT4.dll
+    C:\Windows\System32\SspiCli.dll
+    C:\Windows\System32\CRYPTBASE.dll
+    C:\Windows\System32\bcryptPrimitives.dll
+    C:\Windows\System32\sechost.dll
+    C:\Windows\System32\shcore.dll
+    C:\Windows\System32\SHLWAPI.dll
+    C:\Windows\System32\SHELL32.dll
+    C:\Windows\System32\cfgmgr32.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.17134.523_none_40fda94a45138881\COMCTL32.dll
+    C:\Windows\System32\windows.storage.dll
+    C:\Windows\System32\ADVAPI32.dll
+    C:\Windows\System32\kernel.appcore.dll
+    C:\Windows\System32\profapi.dll
+    C:\Windows\System32\powrprof.dll
+    C:\Windows\System32\FLTLIB.DLL
+    C:\Windows\SYSTEM32\VERSION.dll
+    C:\Windows\SYSTEM32\WINMM.dll
+    C:\Windows\SYSTEM32\winmmbase.dll
+    C:\Windows\System32\IMM32.DLL
+    C:\Windows\system32\uxtheme.dll
+    C:\Windows\System32\MSCTF.dll
+    C:\Windows\System32\OLEAUT32.dll
+    C:\Program Files (x86)\Ready to Program\Support\Bin\edjdll.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\client\jvm.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\hpi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\verify.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\java.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\zip.dll
+    C:\Windows\System32\TextInputFramework.dll
+    C:\Windows\System32\CoreMessaging.dll
+    C:\Windows\System32\CoreUIComponents.dll
+    C:\Windows\SYSTEM32\ntmarta.dll
+    C:\Windows\SYSTEM32\wintypes.dll
+    C:\Windows\system32\dwmapi.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\dt_shmem.dll
+    C:\Program Files (x86)\Ready to Program\Support\jre142_01\bin\net.dll
+    C:\Windows\System32\WS2_32.dll
+    C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.17134.523_none_42edd4b044e3535c\comctl32.DLL
+    C:\Windows\system32\napinsp.dll
+    C:\Windows\system32\pnrpnsp.dll
+    C:\Windows\system32\NLAapi.dll
+    C:\Windows\System32\mswsock.dll
+    C:\Windows\SYSTEM32\DNSAPI.dll
+    C:\Windows\System32\NSI.dll
+    C:\Windows\SYSTEM32\IPHLPAPI.DLL
+    C:\Windows\System32\winrnr.dll
+    C:\Windows\System32\wshbth.dll
+    C:\Windows\System32\fwpuclnt.dll
+    C:\Windows\SYSTEM32\bcrypt.dll
+    C:\Windows\System32\rasadhlp.dll
+    C:\Windows\System32\ole32.dll
+    C:\Windows\SYSTEM32\dbghelp.dll
+
+  0 .V PC=0023:00525e7f Ret=00525c51 Frame=0019e650 Stack=0019e640
+    Parameters (0x02568030 0x00000001 0x0019fef0 0x0019e6a0)
+    dbgheap.c, _free_dbg_lk (), Line 1066+0060 byte(s)
+  1 .V PC=0023:00525c51 Ret=00414d57 Frame=0019e684 Stack=0019e658
+    Parameters (0x02568030 0x00000001 0x0000000d 0x0019fef0)
+    dbgheap.c, _free_dbg (), Line 1001+0013 byte(s)
+  2 .V PC=0023:00414d57 Ret=0040172b Frame=0019e698 Stack=0019e68c
+    Parameters (0x0052cb00 0x0052cb00 0xcccccccc 0xcccccccc)
+    src\edfail.c, EdFail_Finalize (), Line 0157+0018 byte(s)
+  3 .V PC=0023:0040172b Ret=0052cc26 Frame=0019fef0 Stack=0019e6a0
+    Parameters (0x00400000 0x00000000 0x008737bc 0x00000001)
+    src\ed.c, WinMain (), Line 0486+0000 byte(s)
+  4 .V PC=0023:0052cc26 Ret=73838484 Frame=0019ff80 Stack=0019fef8
+    Parameters (0x00303000 0x73838460 0x49199fa1 0x0019ffdc)
+    crt0.c, WinMainCRTStartup (), Line 0198+0054 byte(s)
+  5 .V PC=0023:73838484 Ret=76f43ab8 Frame=0019ff94 Stack=0019ff88
+    Parameters (0x00303000 0x4b9975b5 0x00000000 0x00000000)
+    Unknown module, BaseThreadInitThunk() + 0036 byte(s)
+  6 .V PC=0023:76f43ab8 Ret=76f43a88 Frame=0019ffdc Stack=0019ff9c
+    Parameters (0xffffffff 0x76f5f309 0x00000000 0x00000000)
+    Unknown module, RtlAreBitsSet() + 0136 byte(s)
+  7 .V PC=0023:76f43a88 Ret=00000000 Frame=0019ffec Stack=0019ffe4
+    Parameters (0x0052cb00 0x00303000 0x00000000 0x78746341)
+    Unknown module, RtlAreBitsSet() + 0088 byte(s)
+
+------------------------------------------------------
